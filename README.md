@@ -119,6 +119,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 For any inquiries or support, please contact anuruddh7234@gmail.com.
-```
 
-Ensure that the images `admin_dashboard.png`, `faculty_dashboard.png`, and `student_dashboard.png` are located in the `flask_project/website/static/images/` directory. Replace the paths in the markdown with the actual paths to the images in your project directory. If the images are located in a different path, update the paths accordingly.
