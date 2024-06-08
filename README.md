@@ -94,13 +94,13 @@ Modify the `config.py` file to set up your database URI, secret key, and other c
 ## Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](flask_project/website/static/images/admin_dashboard.png)
+![Admin Dashboard](website/static/images/admin_dashboard.png)
 
 ### Faculty Dashboard
-![Faculty Dashboard](flask_project/website/static/images/faculty_dashboard.png)
+![Faculty Dashboard](website/static/images/faculty_dashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](flask_project/website/static/images/student_dashboard.png)
+![Student Dashboard](website/static/images/student_dashboard.png)
 
 ## Contributing
 
